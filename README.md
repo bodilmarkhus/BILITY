@@ -1,8 +1,9 @@
 # BILITY
-Bility the accessiBILITY app
+## Bility the accessiBILITY app
 
-♿ App for Tilgjengelighet ♿
+Bility er et konsept som lar brukere lese og skrive vurderinger av en offentlig plass i en GUI. Look out for our next updates, we will keep developing continuously!
 
+## Beskrivelse
 En nettside og app som gir brukere muligheten til å melde inn om grad av tilgjengelighet ved ulike geografiske og/eller offentlige steder. 
 
 Folk generelt har muligheten til å ankomme til og delta på ulike aktiviteter og arrangementer, dra til butikker, restauranter og andre offentlige steder og ha det kjekt ute i offentligheten. Beklageligvis er det ikke alltid slik at dette er tilgjengelig for alle mennesker, spesielt ikke for mennesker med ulik grad av fysisk og/eller psykisk funksjonshemming. Dette kan være på grunn av mangel på fysiske tilpasninger for adgang som heis, rampe, o.l., sensorisk problematiske lys, lyder, lukter, o.l., mangel på tilpasning av mat for matallergier, eller andre vanskelige forhold som gjør det enten utfordrende eller umulig for nevnte mennesker å delta på/besøke stedet.
@@ -13,42 +14,43 @@ Appen har en GUI i form av et kart med søkemotor hvor brukere kan søke opp ste
 
 Vurderingene kan i teorien brukes til å tas videre til rette instanser for å forhåpentligvis kunne gjøre områdene mer tilgjengelige i fremtiden.
 
+## Notater
+### Universell Utforming
 Fokus på universell utforming som gir tilgang til målgruppen vår som ønsker å gi vurderinger.
 Inverte farger og bakgrunn for synshemmede
 Bruk av talestyring for valgfunksjoner
 
-
-Kontakt
+### Kontakt
 Ta kontakt med organisasjoner som kan svare for sine utfordringer mer enn oss.
-Ungfunk / Unge funksjonshemmede
-Funksjonshemmedes Fellesorganisasjon
-Norges Handicapforbund
-Undersøkelse
+- Ungfunk / Unge funksjonshemmede
+- Funksjonshemmedes Fellesorganisasjon
+- Norges Handicapforbund
+#### Undersøkelse
 Lage en undersøkelse for å finne ut om meninger til markedet / målgruppe. Kanskje vi kan få kontakt med 
 Hva synes du om dagens tilgjengelighet ?
 Bestemte hindringer som er gjengående ?
 Potensielle løsninger som ønskes i disse områdene?
 
-Målgruppe
+### Målgruppe
 Funksjonshemmede er den største minoriteten i Norge på 17% av Norges befolkning.
 Pårørende til mennesker med funksjonsnedsettelse.
 Bedriftseiere som har interesse av å tilgjengeliggjøre sin bedrift / butikk / o.l.
 
-Forslag til målgrupper:
-Ledsagere/pårørende
-Orienteringshemmede: Hørselshemmede, døve, synshemmede, blinde
-Bevegelseshemmede: Rullestol, rullator, stokk,  krykker, proteser, muskelsykdommer
-Miljøhemmede: Astma, allergi, nedsatt immunforsvar, eksem
-Epilepsi
-Autisme
-ADHD
-Psykiske helsetilstander: Angst, nerveproblemer, kognitiv svikt, depresjon, PTSD, ...pluss mange flere 
-Alzheimers(litt på utsiden)
-Eldre (for dem som kan teknologi)
-Foreldre med barnevogner
-Foreldre med barn som bråker/ har utfordrende diagnoser som forstyrrer omgivelser(blir pårørende)
-Tourettes syndrom?(kanskje ikke en funksjonsnedsettelse, men det kan være ubehagelig for dem i sosiale settinger)
+#### Forslag til målgrupper
+- Ledsagere/pårørende
+- Orienteringshemmede: Hørselshemmede, døve, synshemmede, blinde
+- Bevegelseshemmede: Rullestol, rullator, stokk,  krykker, proteser, muskelsykdommer
+- Miljøhemmede: Astma, allergi, nedsatt immunforsvar, eksem
+- Epilepsi
+- Autisme
+- ADHD
+- Psykiske helsetilstander: Angst, nerveproblemer, kognitiv svikt, depresjon, PTSD, ...pluss mange flere 
+- Alzheimers(litt på utsiden)
+- Eldre (for dem som kan teknologi)
+- Foreldre med barnevogner
+- Foreldre med barn som bråker/ har utfordrende diagnoser som forstyrrer omgivelser(blir pårørende)
+- Tourettes syndrom?(kanskje ikke en funksjonsnedsettelse, men det kan være ubehagelig for dem i sosiale settinger)
 
-Slagord:
+### Slagord
 - lets make it avaliBILITY to all
 - BILITY: AvailaBILITY, AccessiBILITY and ABILITY - For all
