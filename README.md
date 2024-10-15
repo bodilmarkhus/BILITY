@@ -52,7 +52,3 @@ Tourettes syndrom?(kanskje ikke en funksjonsnedsettelse, men det kan være ubeha
 Slagord:
 - lets make it avaliBILITY to all
 - BILITY: AvailaBILITY, AccessiBILITY and ABILITY - For all
-
-![image](https://github.com/user-attachments/assets/6dc06ccc-483e-4747-8d29-6ebcd2e97c89)
-
-
